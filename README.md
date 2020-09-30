@@ -2,6 +2,8 @@
 
 sebuah design UI yang di bangun menggunakan react-native.
 
+<img src="./assets/images/kantinQ.jpg" alt="kantinq" width="250"/>
+
 ## Required
 
 - Nodejs
